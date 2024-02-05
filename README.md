@@ -10,6 +10,8 @@ Full Version download with Baidu Netdisk: https://pan.baidu.com/s/1I0NkmW9qNmSJY
 
 5 Stage Lighting Version download with Baidu Netdisk: https://pan.baidu.com/s/11CILKzLpyFasU9C8WVlk7g （extraction code: sq35 ）
 
+Feel free to let me know if the links are deprecated.
+
 ## Results
 1. Compare with other SOTA methods  
  
@@ -21,7 +23,7 @@ Full Version download with Baidu Netdisk: https://pan.baidu.com/s/1I0NkmW9qNmSJY
   
   ![image](https://user-images.githubusercontent.com/49474766/168271955-82136035-7cc3-4c1c-94fb-e9519df0b387.png)
 
-## acknowledgement
+## Acknowledgement
 Prof. Gao Shu
 
 ## Contact
